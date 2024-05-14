@@ -20,7 +20,7 @@
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/imsonuksingh)‎ ‎
+[![Buy Me A Coffee](https://buymeacoffee.com/imsonuksingh)‎ ‎
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4w3Gkog-PHU6aZIrkHmmKg?label=YouTube&style=flat)](https://www.youtube.com/thinktodayeducation)‎ ‎
 <br>
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=imsonuksingh&label=Profile%20views&color=129e00&style=flat)](https://github.com/imsonuksingh#)
