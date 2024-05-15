@@ -71,9 +71,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="#">![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a><br>
 <a href="#">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
 
-📈 my github stats
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imsonuksingh&show_icons=true&theme=gotham" alt="SONU KUMAR SIGNH" />
+
+<p align="center">
+<a href="https://github.com/imsonuksingh"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsonuksingh&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=imsonuksingh&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
+  </a>
+</p>
+
+- Note : **Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.**
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
