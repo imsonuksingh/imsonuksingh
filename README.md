@@ -27,12 +27,30 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </div>
 <div align="center"><br>
 
-<img src="https://visitor-badge.feriirawann.repl.co?username=imsonuksingh&repo=imsonuksingh&label=Visitor&style=social&color=%23457BFF&contentType=svg"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+THE+OWNER+NAME+IS+SONU+K+SINGH;I+AM+FROM+INDIA+Bihar(Patna);B.tech+With+CSE+WELCOME!+:%29)](https://git.io/typing-svg)
+
+<p align="center"> <a href="https://archcraft.io"><img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" height="128" width="128" alt="Archcraft"></a>   
+  
+
+<p align="center"><img src="https://img.shields.io/badge/WE ARE %20INDIAN - PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  
+</h3>
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<h3 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Thank+U+4+Visiting;+IT's+NOT+A+JUST+NAME+BRO;IT's+A+BRAND+GalaxySonu;THANK+YOU+EVERYONE+LuvAll)](https://git.io/typing-svg)
+
+</p>
+  <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+<p align='center'><img src="https://komarev.com/ghpvc/?username=imsonuksingh&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="imsonuksingh" />
+<a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
+<p align='center'><a href="https://api.daily.dev/get?r=sonukumarsingh">
+
+</p>
 
 ---
-
-<details>
-<summary> ‎𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙁𝙊𝙍 𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 ❯❯❯</summary>
 
 ## 🌎 ‎ ‎Social Media Handles
 
