@@ -92,6 +92,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+My Telegram Channel : https://t.me/sonukiproject
   
 ###### ‼️ Note: Most used languages denote the usage in my repositories, not my skills in them ‼
 </details>
