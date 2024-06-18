@@ -59,7 +59,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://www.facebook.com/x/">![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <br>
 <a href="https://www.linkedin.com/in/x/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.youtube.com/x">![](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://www.youtube.com/@codersonu">![](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://discord.com/invite/x/">![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)</a> 
 <a href="tps://bio.link/imsonuksingh"><img width="auto" height="28" src="https://bit.ly/3bDDagz"/></a>
 
