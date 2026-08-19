@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./sonu-banner.svg?v=7">
   <source media="(prefers-color-scheme: light)" srcset="./sonu-banner-light.svg?v=1">
-  <img src="./megha-banner.svg?v=7" alt="Sonu Kumar Singh — Software Engineer" width="100%"/>
+  <img src="./sonu-banner.svg?v=7" alt="Sonu Kumar Singh — Software Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./sonu-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
+<img src="./sonu-lanyard.svg?v=2" alt="Sonu Coder ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -50,12 +50,12 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Meghamittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=sonu.coder&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghamittal0920&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu.coder&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 
@@ -66,7 +66,7 @@
 
 ### 🐍 Watch the snake eat my contributions
 
-<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/sonu.coder/sonu.coder/output/github-snake-pink.svg" alt="Contribution snake"/>
 
 <br/><br/>
 
@@ -79,7 +79,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sonu.coder&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
