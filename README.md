@@ -25,11 +25,11 @@
 
 | 🎌 Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
-| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
-| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
-| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
-| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
-| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
+| [🍥 Naruto — Sage Mode](https:///Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
+| [⚔️ Zoro — King of Hell](https://github.com//Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
+| [🌙 Demon Slayer — Yoriichi & Kokushibo](htt/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
+| [👁️ JJK — Sukuna](https://githu/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
+| [🏴‍☠️ One Piece 3D Website](https://github.com/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
 
 <br/>
 
@@ -72,10 +72,10 @@
 
 ### 📫 Let's Connect
 
-<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.instagram.com/codergirl.megha"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.youtube.com/@codergirlmegha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="mailto:sonukrsdg@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/imsonuksingh"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/sonu.coder"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.youtube.com/@codersonu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 <br/><br/>
 
