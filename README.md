@@ -79,7 +79,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sonu.coder&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=imsonuksingh&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
