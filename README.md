@@ -45,8 +45,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./megha-stats.svg?v=2" alt="GitHub Stats" height="185"/>
-<img src="./megha-langs.svg?v=2" alt="Top Languages" height="185"/>
+<img src="./sonu-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./sonu-langs.svg?v=2" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -60,7 +60,7 @@
 <br/><br/>
 
 <!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./megha-trophies.svg?v=2" alt="Trophies" width="95%"/>
+<img src="./sonu-trophies.svg?v=2" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
